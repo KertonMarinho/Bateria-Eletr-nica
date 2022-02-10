@@ -1,2 +1,2 @@
 #Bateria Eletrônica
-![Screenshot](/screenshot2.png.png);
+![Screenshot](/screenshot2.png);
